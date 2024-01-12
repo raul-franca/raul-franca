@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá, sou Raul França! 👋
 
-<!--
-**raul-franca/raul-franca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por tecnologia e desenvolvimento de software desde os meus 16 anos, sou estudante de Sistemas de Informação e estou sempre em busca de aprimoramento e novos conhecimentos.
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 🌱 **Interesses**: Desenvolvimento de software, inovações tecnológicas, e aprendizado contínuo.
+- 👨‍💻 **Linguagens**: Python, JavaScript, Java, Go, SQL.
+- 🛠️ **Frameworks**: Vue, Node.js, Django, Spring.
+- 🔧 **Ferramentas**: Git, Docker, AWS.
+- 🤝 **Colaboração**: Interessado em projetos inovadores e desafiadores.
+- 📫 **Contato**: [raulmfranca@gmail.com](mailto:raulmfranca@gmail.com)
+- 📄 **LinkedIn**: [raulmfranca](https://www.linkedin.com/in/raulmfranca/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos e Contribuições
+Descreva aqui alguns de seus projetos mais significativos ou contribuições para a comunidade. Não se esqueça de incluir links e uma breve descrição para cada um.
+
+## Contato
+Para mais informações e colaborações, não hesite em me contatar diretamente via e-mail ou LinkedIn.
+
+---
+
+*"It always seems impossible until it's done." - Nelson Mandela*
