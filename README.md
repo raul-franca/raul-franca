@@ -25,9 +25,9 @@ raul@darknet:~$ focus
 Python, AI/ML, Deep Learning, React, analytics
 ```
 
-I build intelligent systems, automate the ugly parts of data work, and turn ideas into usable products.
+I build data-driven systems, operationalize machine learning, and ship products that turn raw signals into usable outcomes.
 
-My mission: deploy clean models, build strong interfaces, and keep pushing toward more capable AI-driven experiences.
+Focused on Python, AI workflows, intelligent interfaces, and production-ready tooling.
 
 ---
 
